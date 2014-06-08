@@ -19,6 +19,8 @@ Opis i uruchomienie
 ============
 
 Serwer: `mproto [-v]`
+
+
 Klient: `mproto [-v] [-s] [-p size] [-m message] address`
 
 
@@ -53,4 +55,4 @@ W drugiej konsoli lub w konsoli innego komputera wpisz:
 	$ ./mproto -m 'Hej, mproto!' 127.0.0.1
 
 
-W przypadku innego komputera zamień 127.0.0.1 na jego adres komputera na którym uruchomiono serwer.
+W przypadku innego komputera zamień 127.0.0.1 na adres komputera na którym uruchomiono serwer.

@@ -75,7 +75,7 @@ void usage()
 	fprintf(stderr, "  -h  Display this helpful text\n");
 	fprintf(stderr, "  -v  Increment verbosity level (more -v, more verbose)\n");
 	fprintf(stderr, "  -p  Part size. Choose between %u and %u\n", MIN_PART_SIZE, MAX_PART_SIZE);
-	fprintf(stderr, "  -m  Send given message (as a client)\n");
+	fprintf(stderr, "  -m  Send given message\n");
 	fprintf(stderr, "  -s  Simulate sending\n");
 }
 
